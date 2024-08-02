@@ -1,0 +1,51 @@
+.url-shortener {
+  max-width: 6000px;
+  margin: 0 auto;
+}
+
+form {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+input {
+  flex-grow: 1;
+  padding: 20px;
+  font-size: 166px;
+  border: 1px solid #ccc;
+  border-radius: 4px 0 0 4px;
+  box-shadow: 2px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #0077ff;
+  color: white;
+  border: none;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0066dd;
+}
+
+.result {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.result p {
+  margin-bottom: 10px;
+}
+
+.result a {
+  color: #4880c0;
+  text-decoration: none;
+}
+
+.result a:hover {
+  text-decoration: underline;
+}
