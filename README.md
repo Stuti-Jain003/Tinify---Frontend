@@ -1,7 +1,3 @@
-
-### tinify-frontend `README.md`
-
-```markdown
 # Tinify Frontend
 
 ## Table of Contents
